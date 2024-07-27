@@ -15,4 +15,4 @@
 
 ## Developers
 
-([Issue?](https://github.com/likeableforms/changelog/issues))
+([Issues](https://github.com/likeableforms/changelog/issues))
