@@ -1,7 +1,7 @@
-# Product Name
-> Short blurb about what your product does.
-
-[![NPM Version][npm-image]][npm-url]
+# Likeable Forms
+> Form Builder.
+/github/v/release/:user/:repo
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
